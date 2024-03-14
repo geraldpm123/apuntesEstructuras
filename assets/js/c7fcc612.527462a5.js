@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguia_estructuras=self.webpackChunkguia_estructuras||[]).push([[5182],{6709:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/apuntesEstructuras/blog/tags/hola","allTagsPath":"/apuntesEstructuras/blog/tags","count":1,"unlisted":false}')}}]);

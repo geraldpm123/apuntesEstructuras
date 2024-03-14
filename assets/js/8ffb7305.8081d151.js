@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguia_estructuras=self.webpackChunkguia_estructuras||[]).push([[3742],{4175:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/apuntesEstructuras/blog/tags/facebook","allTagsPath":"/apuntesEstructuras/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguia_estructuras=self.webpackChunkguia_estructuras||[]).push([[2808],{5223:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/apuntesEstructuras/blog/tags/docusaurus","allTagsPath":"/apuntesEstructuras/blog/tags","count":4,"unlisted":false}')}}]);
