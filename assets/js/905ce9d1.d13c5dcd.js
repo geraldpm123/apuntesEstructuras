@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkguia_estructuras=self.webpackChunkguia_estructuras||[]).push([[6643],{6975:s=>{s.exports=JSON.parse('{"permalink":"/apuntesEstructuras/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

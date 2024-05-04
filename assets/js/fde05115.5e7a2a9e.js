@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguia_estructuras=self.webpackChunkguia_estructuras||[]).push([[6818],{7461:t=>{t.exports=JSON.parse('{"permalink":"/apuntesEstructuras/blog/tags/python-env","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
