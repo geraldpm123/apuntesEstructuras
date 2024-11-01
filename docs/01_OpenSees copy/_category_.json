@@ -1,0 +1,8 @@
+{
+  "label": "OpenSees",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Apuntesy Ejemplos del curso de OpenSeesPy para el analisis estructural e investigacion"
+  }
+}
